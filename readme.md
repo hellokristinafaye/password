@@ -2,6 +2,8 @@ Overview:
 
 Technologies Used:
 
+- Google Font "Poppins" via CDN
+
 Features:
 
 Notes:
