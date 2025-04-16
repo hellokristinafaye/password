@@ -1,8 +1,13 @@
 Overview:
 
+- "strong" password generator creates a secure password with just a click.  Easily copy/paste from here to keep your accounts secure.
+
 Technologies Used:
 
 - Google Font "Poppins" via CDN
+- HTML
+- CSS
+- JavaScript
 
 Features:
 
